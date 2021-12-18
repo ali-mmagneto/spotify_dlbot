@@ -1,13 +1,13 @@
 {
-  "name": "Spotify Premium Bot",
+  "name": "Spotify Downloader Bot",
   "description": "A telegram bot for downlaoding spotify playlist songs on telegram.",
-  "logo": "https://telegra.ph/file/ff06b4802f3a2ac7b6343.jpg",
+  "logo": "https://telegra.ph/file/e049ac49a08fa098ac406.jpg",
   "keywords": [
     "Spotify","SpotifyDownloader","SpotifyPremium","Premium","Music","Download"
   ],
-  "repository": "https://github.com/mastermindvrtx/Telegram-Spotify-Downloader.git",
-  "success_url": "https://t.me/musicvrtx",
-  "website": "https://t.me/spotifyvrtxbot",
+  "repository": "https://github.com/ali-mmagneto/spotify_dlbot",
+  "success_url": "https://t.me/alispotifyBot",
+  "website": "https://t.me/quickwaste",
   "env": {
 
         "TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
