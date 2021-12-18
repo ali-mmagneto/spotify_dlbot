@@ -14,7 +14,7 @@
         "APP_NAME": {"description": "Name of your Herko-App [check-first-blank-box]", "required": true}  
   },
       "buildpacks": [{
-"url": "heroku/python"
+          "url": "heroku/python"
    }],
   "formation": {
         "worker": {
