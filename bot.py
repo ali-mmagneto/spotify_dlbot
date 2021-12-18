@@ -1,6 +1,7 @@
 import logging
 import os
 
+from handlers import sender
 from handlers.helpers import spotifydl
 from telegram import Update
 from telegram.ext import CallbackContext, CommandHandler, Updater
